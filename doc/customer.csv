@@ -1,0 +1,6 @@
+customer_id ,costomer_name,gender,product,amount,age
+1,amal,male,A,1000,18
+2,arjun,female,B,1000,18
+3,akash,male,C,2000,20
+4,gopu,female,D,2000,20
+5,anjali,female,B,1000,20
